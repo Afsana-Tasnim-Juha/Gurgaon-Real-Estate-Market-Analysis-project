@@ -1,12 +1,1 @@
 ﻿# Gurgaon-Real-Estate-Market-Analysis-project
- This study examines variation in Gurgaon real estate listing prices using the dataset accompanying the Gurgaon
-Real Estate Market Analysis project. The supplied file contains 19,515 records and 12 variables; removal of
-5,292 exact duplicate rows leaves 14,223 records. Descriptive statistics, segment comparisons, and Spearman
-rank correlations are used to examine property size, locality, construction status, recorded RERA approval, and
-property type. Mean listing price is INR 4.00 crore, compared with a median of INR 2.62 crore, indicating a
-right-skewed distribution. Ready-to-move listings have a higher mean price than under-construction listings, but
-a lower median price and median rate per square foot. Recorded RERA-approved listings also show lower mean
-prices but higher medians than listings carrying the opposite label. These reversals demonstrate why a single
-average can misrepresent segment differences. Size and price are positively associated, while data-quality
-problems constrain bedroom and property-type interpretations. Findings describe the observed listings rather
-than completed transactions or causal price effects.
